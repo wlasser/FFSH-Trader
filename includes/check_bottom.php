@@ -1,0 +1,298 @@
+</center></table>
+<p align=left>
+<META content="text/html; charset=windows-1252" http-equiv=Content-Type>
+<META name=ProgId content=Word.Document>
+<META name=GENERATOR content="MSHTML 8.00.6001.23181">
+<META name=Originator content="Microsoft Word 11"><LINK rel=File-List 
+href="450E358.files/filelist.xml"><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>EverlasT</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2004-12-31T23:57:00Z</o:Created>
+  <o:Pages>1</o:Pages>
+  <o:Words>278</o:Words>
+  <o:Characters>1586</o:Characters>
+  <o:Company>MoBIL GROUP</o:Company>
+  <o:Lines>13</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>1861</o:CharactersWithSpaces>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<STYLE>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:204;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1073750139 0 0 159 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.ListParagraph, li.ListParagraph, div.ListParagraph
+	{mso-style-name:"List Paragraph";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.ListParagraphCxSpFirst, li.ListParagraphCxSpFirst, div.ListParagraphCxSpFirst
+	{mso-style-name:"List ParagraphCxSpFirst";
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.ListParagraphCxSpMiddle, li.ListParagraphCxSpMiddle, div.ListParagraphCxSpMiddle
+	{mso-style-name:"List ParagraphCxSpMiddle";
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.ListParagraphCxSpLast, li.ListParagraphCxSpLast, div.ListParagraphCxSpLast
+	{mso-style-name:"List ParagraphCxSpLast";
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:281230974;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1914829922 68747279 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-bidi-font-family:"Times New Roman";}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</STYLE>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"\041E\0431\044B\0447\043D\0430\044F \0442\0430\0431\043B\0438\0446\0430";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--></HEAD>
+<BODY style="tab-interval: 35.4pt" lang=RU>
+<DIV class=Section1>
+<P class=MsoNormal><B style="mso-bidi-font-weight: normal">Óâàæàåìûé 
+ïîêóïàòåëü!<o:p></o:p></B></P>
+<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Âûðàæàåì Âàì 
+ïðèçíàòåëüíîñòü çà ïðèîáðåòåíèå òåõíèêè â íàøåé ôèðìå.<o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Äëÿ 
+òîãî<SPAN class=GramE>,</SPAN> ÷òîáû ýòà òåõíèêà ñëóæèëà äîëãî è íå äîñòàâëÿëà 
+Âàì íèêàêèõ ïðîáëåì, óáåäèòåëüíî ïðîñèì îçíàêîìèòüñÿ ñ íàñòîÿùèìè 
+ãàðàíòèéíûì<SPAN style="mso-spacerun: yes">&nbsp; 
+</SPAN>îáÿçàòåëüñòâîì.<o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Ãàðàíòèÿ 
+äåéñòâèòåëüíà òîëüêî ïðè íàëè÷èè íàñòîÿùåãî ãàðàíòèéíîãî 
+òàëîíà!<o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Ïðè 
+îòñóòñòâèè îðèãèíàëüíîé óïàêîâêè ãàðàíòèÿ íå ðåàëèçóåòñÿ.<o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Ïðè óòåðå 
+òàëîíà ãàðàíòèÿ</SPAN><SPAN style="mso-spacerun: yes">&nbsp;&nbsp; </SPAN><B 
+style="mso-bidi-font-weight: normal">ÍÅ ÂÎÑÑÒÀÍÀÂËÈÂÀÅÒÑß</B>!</P>
+<P style="TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1" 
+class=ListParagraphCxSpFirst><![if !supportLists]><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri"><SPAN 
+style="mso-list: Ignore">1.<SPAN 
+style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN></SPAN></SPAN><![endif]><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Ñðîê ãàðàíòèè èñ÷èñëÿåòñÿ ñî äíÿ 
+ïðîäàæè è óêàçûâàåòñÿ â ãàðàíòèéíîì òàëîíå.<o:p></o:p></SPAN></P>
+<P style="TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1" 
+class=ListParagraphCxSpMiddle><![if !supportLists]><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri"><SPAN 
+style="mso-list: Ignore">2.<SPAN 
+style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN></SPAN></SPAN><![endif]><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Ñðîê ãàðàíòèéíîãî ðåìîíòà íå 
+ïðåâûøàåò 45 äíåé.<o:p></o:p></SPAN></P>
+<P style="TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1" 
+class=ListParagraphCxSpMiddle><![if !supportLists]><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri"><SPAN 
+style="mso-list: Ignore">3.<SPAN 
+style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN></SPAN></SPAN><![endif]><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Ãàðàíòèÿ íå ðàñïðîñòðàíÿåòñÿ íà 
+äèñêåòû, </SPAN><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-ansi-language: EN-US" 
+lang=EN-US>CD</SPAN><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">-äèñêè, 
+ðàñõîäíûå ìàòåðèàëû <SPAN class=GramE>ê</SPAN> <SPAN 
+class=GramE>ïðèíòåðàìè</SPAN> è êîïèðîâàëüíûì<SPAN 
+style="mso-spacerun: yes">&nbsp; </SPAN>óñòðîéñòâàì.<o:p></o:p></SPAN></P>
+<P style="TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1" 
+class=ListParagraphCxSpMiddle><![if !supportLists]><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri"><SPAN 
+style="mso-list: Ignore">4.<SPAN 
+style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN></SPAN></SPAN><![endif]><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Ãàðàíòèÿ ïðåêðàùàåòñÿ: ïðè íàëè÷èè 
+ñëåäîâ<SPAN style="mso-spacerun: yes">&nbsp; </SPAN>âñêðûòèÿ èëè ïîïûòîê 
+ñàìîñòîÿòåëüíîãî ðåìîíòà, ñëåäîâ îðãàíè÷åñêîé æèçíåäåÿòåëüíîñòè æèâîòíûõ èëè 
+íàñåêîìûõ, ñëåäîâ ìåõàíè÷åñêîãî, õèìè÷åñêîãî èëè òåðìàëüíîãî âîçäåéñòâèÿ, à 
+òàêæå ïðè íåñîâïàäåíèè ñåðèéíîãî íîìåðà èçäåëèé è íîìåðà, óêàçàííîãî â 
+ãàðàíòèéíîì òàëîíå.<o:p></o:p></SPAN></P>
+<P style="TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1" 
+class=ListParagraphCxSpMiddle><![if !supportLists]><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri"><SPAN 
+style="mso-list: Ignore">5.<SPAN 
+style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN></SPAN></SPAN><![endif]><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Ãàðàíòèÿ íå ðàñïðîñòðàíÿåòñÿ íà 
+ïðîãðàììíîå îáåñïå÷åíèå, îïåðàöèîííóþ ñèñòåìó è ñèñòåìíûå ôàéëû. Ôèðìà íå íåñåò 
+ãàðàíòèéíûõ îáÿçàòåëü<SPAN class=GramE>ñòâ ïð</SPAN>è êîíôëèêòå ïðîãðàììíîãî 
+îáåñïå÷åíèÿ, óñòàíîâëåííîãî Ïîêóïàòåëåì, ñ àïïàðàòíîé ÷àñòüþ êîìïüþòåðà. Ôèðìà 
+íå íåñåò îòâåòñòâåííîñòè çà èíôîðìàöèþ, õðàíÿùóþñÿ íà íîñèòåëÿõ èíôîðìàöèè 
+ïîëüçîâàòåëÿ.<o:p></o:p></SPAN></P>
+<P style="TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1" 
+class=ListParagraphCxSpMiddle><![if !supportLists]><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri"><SPAN 
+style="mso-list: Ignore">6.<SPAN 
+style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN></SPAN></SPAN><![endif]><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Ãàðàíòèÿ íå ðàñïðîñòðàíÿåòñÿ íà 
+óùåðá, ïðè÷èíåííûé äðóãîìó îáîðóäîâàíèþ, ðàáîòàþùåìó â ñîïðÿæåíèè ñ äàííûì 
+èçäåëèåì.<o:p></o:p></SPAN></P>
+<P style="TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1" 
+class=ListParagraphCxSpMiddle><![if !supportLists]><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri"><SPAN 
+style="mso-list: Ignore">7.<SPAN 
+style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN></SPAN></SPAN><![endif]><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Ïðè çàìåíå êîìïëåêòóþùåãî èçäåëèÿ 
+ãàðàíòèÿ ïðîäëåâàåòñÿ íà êîëè÷åñòâî äíåé, â òå÷åíèå êîòîðûõ ïðîèçâîäèëñÿ 
+ãàðàíòèéíûé ðåìîíò.<o:p></o:p></SPAN></P>
+<P style="TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1" 
+class=ListParagraphCxSpMiddle><![if !supportLists]><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri"><SPAN 
+style="mso-list: Ignore">8.<SPAN 
+style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN></SPAN></SPAN><![endif]><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Ãàðàíòèéíûé ðåìîíò èçäåëèÿ 
+ïðîèçâîäèòñÿ òîëüêî íà òåððèòîðèè ôèðìû.<o:p></o:p></SPAN></P>
+<P style="TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1" 
+class=ListParagraphCxSpMiddle><![if !supportLists]><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri"><SPAN 
+style="mso-list: Ignore">9.<SPAN 
+style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN></SPAN></SPAN><![endif]><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Ãàðàíòèéíûé òàëîí íå äåéñòâèòåëåí ïðè 
+îòñóòñòâèè ïîäïèñåé ïðîäàâöà è ïîêóïàòåëÿ.<o:p></o:p></SPAN></P>
+<P class=ListParagraphCxSpLast><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt"><?php echo date("d.m.y"); ?><o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Ïîäïèñü 
+ïðîäàâöà: ____________________<o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Ïðåòåíçèé ê 
+âíåøíåìó âèäó è èñïðàâíîñòè òîâàðà íå èìåþ.<SPAN 
+style="mso-tab-count: 2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN><SPAN 
+style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN>Ì.Ï.<o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Ïîäïèñü 
+ïîêóïàòåëÿ: _____________________<o:p></o:p></SPAN></P>
+<P class=MsoNormal><o:p>&nbsp;</o:p></P></p></DIV></BODY></HTML>
