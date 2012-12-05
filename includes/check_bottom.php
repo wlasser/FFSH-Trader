@@ -178,121 +178,121 @@ ul
 <![endif]--></HEAD>
 <BODY style="tab-interval: 35.4pt" lang=RU>
 <DIV class=Section1>
-<P class=MsoNormal><B style="mso-bidi-font-weight: normal">Уважаемый 
-покупатель!<o:p></o:p></B></P>
-<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Выражаем Вам 
-признательность за приобретение техники в нашей фирме.<o:p></o:p></SPAN></P>
-<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Для 
-того<SPAN class=GramE>,</SPAN> чтобы эта техника служила долго и не доставляла 
-Вам никаких проблем, убедительно просим ознакомиться с настоящими 
-гарантийным<SPAN style="mso-spacerun: yes">&nbsp; 
-</SPAN>обязательством.<o:p></o:p></SPAN></P>
-<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Гарантия 
-действительна только при наличии настоящего гарантийного 
-талона!<o:p></o:p></SPAN></P>
-<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">При 
-отсутствии оригинальной упаковки гарантия не реализуется.<o:p></o:p></SPAN></P>
-<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">При утере 
-талона гарантия</SPAN><SPAN style="mso-spacerun: yes">&nbsp;&nbsp; </SPAN><B 
-style="mso-bidi-font-weight: normal">НЕ ВОССТАНАВЛИВАЕТСЯ</B>!</P>
+<P class=MsoNormal><B style="mso-bidi-font-weight: normal">РЈРІР°Р¶Р°РµРјС‹Р№ 
+РїРѕРєСѓРїР°С‚РµР»СЊ!<o:p></o:p></B></P>
+<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Р’С‹СЂР°Р¶Р°РµРј Р’Р°Рј 
+РїСЂРёР·РЅР°С‚РµР»СЊРЅРѕСЃС‚СЊ Р·Р° РїСЂРёРѕР±СЂРµС‚РµРЅРёРµ С‚РµС…РЅРёРєРё РІ РЅР°С€РµР№ С„РёСЂРјРµ.<o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Р”Р»СЏ 
+С‚РѕРіРѕ<SPAN class=GramE>,</SPAN> С‡С‚РѕР±С‹ СЌС‚Р° С‚РµС…РЅРёРєР° СЃР»СѓР¶РёР»Р° РґРѕР»РіРѕ Рё РЅРµ РґРѕСЃС‚Р°РІР»СЏР»Р° 
+Р’Р°Рј РЅРёРєР°РєРёС… РїСЂРѕР±Р»РµРј, СѓР±РµРґРёС‚РµР»СЊРЅРѕ РїСЂРѕСЃРёРј РѕР·РЅР°РєРѕРјРёС‚СЊСЃСЏ СЃ РЅР°СЃС‚РѕСЏС‰РёРјРё 
+РіР°СЂР°РЅС‚РёР№РЅС‹Рј<SPAN style="mso-spacerun: yes">&nbsp; 
+</SPAN>РѕР±СЏР·Р°С‚РµР»СЊСЃС‚РІРѕРј.<o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Р“Р°СЂР°РЅС‚РёСЏ 
+РґРµР№СЃС‚РІРёС‚РµР»СЊРЅР° С‚РѕР»СЊРєРѕ РїСЂРё РЅР°Р»РёС‡РёРё РЅР°СЃС‚РѕСЏС‰РµРіРѕ РіР°СЂР°РЅС‚РёР№РЅРѕРіРѕ 
+С‚Р°Р»РѕРЅР°!<o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">РџСЂРё 
+РѕС‚СЃСѓС‚СЃС‚РІРёРё РѕСЂРёРіРёРЅР°Р»СЊРЅРѕР№ СѓРїР°РєРѕРІРєРё РіР°СЂР°РЅС‚РёСЏ РЅРµ СЂРµР°Р»РёР·СѓРµС‚СЃСЏ.<o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">РџСЂРё СѓС‚РµСЂРµ 
+С‚Р°Р»РѕРЅР° РіР°СЂР°РЅС‚РёСЏ</SPAN><SPAN style="mso-spacerun: yes">&nbsp;&nbsp; </SPAN><B 
+style="mso-bidi-font-weight: normal">РќР• Р’РћРЎРЎРўРђРќРђР’Р›РР’РђР•РўРЎРЇ</B>!</P>
 <P style="TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1" 
 class=ListParagraphCxSpFirst><![if !supportLists]><SPAN 
 style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri"><SPAN 
 style="mso-list: Ignore">1.<SPAN 
 style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </SPAN></SPAN></SPAN><![endif]><SPAN 
-style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Срок гарантии исчисляется со дня 
-продажи и указывается в гарантийном талоне.<o:p></o:p></SPAN></P>
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">РЎСЂРѕРє РіР°СЂР°РЅС‚РёРё РёСЃС‡РёСЃР»СЏРµС‚СЃСЏ СЃРѕ РґРЅСЏ 
+РїСЂРѕРґР°Р¶Рё Рё СѓРєР°Р·С‹РІР°РµС‚СЃСЏ РІ РіР°СЂР°РЅС‚РёР№РЅРѕРј С‚Р°Р»РѕРЅРµ.<o:p></o:p></SPAN></P>
 <P style="TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1" 
 class=ListParagraphCxSpMiddle><![if !supportLists]><SPAN 
 style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri"><SPAN 
 style="mso-list: Ignore">2.<SPAN 
 style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </SPAN></SPAN></SPAN><![endif]><SPAN 
-style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Срок гарантийного ремонта не 
-превышает 45 дней.<o:p></o:p></SPAN></P>
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">РЎСЂРѕРє РіР°СЂР°РЅС‚РёР№РЅРѕРіРѕ СЂРµРјРѕРЅС‚Р° РЅРµ 
+РїСЂРµРІС‹С€Р°РµС‚ 45 РґРЅРµР№.<o:p></o:p></SPAN></P>
 <P style="TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1" 
 class=ListParagraphCxSpMiddle><![if !supportLists]><SPAN 
 style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri"><SPAN 
 style="mso-list: Ignore">3.<SPAN 
 style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </SPAN></SPAN></SPAN><![endif]><SPAN 
-style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Гарантия не распространяется на 
-дискеты, </SPAN><SPAN 
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Р“Р°СЂР°РЅС‚РёСЏ РЅРµ СЂР°СЃРїСЂРѕСЃС‚СЂР°РЅСЏРµС‚СЃСЏ РЅР° 
+РґРёСЃРєРµС‚С‹, </SPAN><SPAN 
 style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-ansi-language: EN-US" 
-lang=EN-US>CD</SPAN><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">-диски, 
-расходные материалы <SPAN class=GramE>к</SPAN> <SPAN 
-class=GramE>принтерами</SPAN> и копировальным<SPAN 
-style="mso-spacerun: yes">&nbsp; </SPAN>устройствам.<o:p></o:p></SPAN></P>
+lang=EN-US>CD</SPAN><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">-РґРёСЃРєРё, 
+СЂР°СЃС…РѕРґРЅС‹Рµ РјР°С‚РµСЂРёР°Р»С‹ <SPAN class=GramE>Рє</SPAN> <SPAN 
+class=GramE>РїСЂРёРЅС‚РµСЂР°РјРё</SPAN> Рё РєРѕРїРёСЂРѕРІР°Р»СЊРЅС‹Рј<SPAN 
+style="mso-spacerun: yes">&nbsp; </SPAN>СѓСЃС‚СЂРѕР№СЃС‚РІР°Рј.<o:p></o:p></SPAN></P>
 <P style="TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1" 
 class=ListParagraphCxSpMiddle><![if !supportLists]><SPAN 
 style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri"><SPAN 
 style="mso-list: Ignore">4.<SPAN 
 style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </SPAN></SPAN></SPAN><![endif]><SPAN 
-style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Гарантия прекращается: при наличии 
-следов<SPAN style="mso-spacerun: yes">&nbsp; </SPAN>вскрытия или попыток 
-самостоятельного ремонта, следов органической жизнедеятельности животных или 
-насекомых, следов механического, химического или термального воздействия, а 
-также при несовпадении серийного номера изделий и номера, указанного в 
-гарантийном талоне.<o:p></o:p></SPAN></P>
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Р“Р°СЂР°РЅС‚РёСЏ РїСЂРµРєСЂР°С‰Р°РµС‚СЃСЏ: РїСЂРё РЅР°Р»РёС‡РёРё 
+СЃР»РµРґРѕРІ<SPAN style="mso-spacerun: yes">&nbsp; </SPAN>РІСЃРєСЂС‹С‚РёСЏ РёР»Рё РїРѕРїС‹С‚РѕРє 
+СЃР°РјРѕСЃС‚РѕСЏС‚РµР»СЊРЅРѕРіРѕ СЂРµРјРѕРЅС‚Р°, СЃР»РµРґРѕРІ РѕСЂРіР°РЅРёС‡РµСЃРєРѕР№ Р¶РёР·РЅРµРґРµСЏС‚РµР»СЊРЅРѕСЃС‚Рё Р¶РёРІРѕС‚РЅС‹С… РёР»Рё 
+РЅР°СЃРµРєРѕРјС‹С…, СЃР»РµРґРѕРІ РјРµС…Р°РЅРёС‡РµСЃРєРѕРіРѕ, С…РёРјРёС‡РµСЃРєРѕРіРѕ РёР»Рё С‚РµСЂРјР°Р»СЊРЅРѕРіРѕ РІРѕР·РґРµР№СЃС‚РІРёСЏ, Р° 
+С‚Р°РєР¶Рµ РїСЂРё РЅРµСЃРѕРІРїР°РґРµРЅРёРё СЃРµСЂРёР№РЅРѕРіРѕ РЅРѕРјРµСЂР° РёР·РґРµР»РёР№ Рё РЅРѕРјРµСЂР°, СѓРєР°Р·Р°РЅРЅРѕРіРѕ РІ 
+РіР°СЂР°РЅС‚РёР№РЅРѕРј С‚Р°Р»РѕРЅРµ.<o:p></o:p></SPAN></P>
 <P style="TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1" 
 class=ListParagraphCxSpMiddle><![if !supportLists]><SPAN 
 style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri"><SPAN 
 style="mso-list: Ignore">5.<SPAN 
 style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </SPAN></SPAN></SPAN><![endif]><SPAN 
-style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Гарантия не распространяется на 
-программное обеспечение, операционную систему и системные файлы. Фирма не несет 
-гарантийных обязатель<SPAN class=GramE>ств пр</SPAN>и конфликте программного 
-обеспечения, установленного Покупателем, с аппаратной частью компьютера. Фирма 
-не несет ответственности за информацию, хранящуюся на носителях информации 
-пользователя.<o:p></o:p></SPAN></P>
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Р“Р°СЂР°РЅС‚РёСЏ РЅРµ СЂР°СЃРїСЂРѕСЃС‚СЂР°РЅСЏРµС‚СЃСЏ РЅР° 
+РїСЂРѕРіСЂР°РјРјРЅРѕРµ РѕР±РµСЃРїРµС‡РµРЅРёРµ, РѕРїРµСЂР°С†РёРѕРЅРЅСѓСЋ СЃРёСЃС‚РµРјСѓ Рё СЃРёСЃС‚РµРјРЅС‹Рµ С„Р°Р№Р»С‹. Р¤РёСЂРјР° РЅРµ РЅРµСЃРµС‚ 
+РіР°СЂР°РЅС‚РёР№РЅС‹С… РѕР±СЏР·Р°С‚РµР»СЊ<SPAN class=GramE>СЃС‚РІ РїСЂ</SPAN>Рё РєРѕРЅС„Р»РёРєС‚Рµ РїСЂРѕРіСЂР°РјРјРЅРѕРіРѕ 
+РѕР±РµСЃРїРµС‡РµРЅРёСЏ, СѓСЃС‚Р°РЅРѕРІР»РµРЅРЅРѕРіРѕ РџРѕРєСѓРїР°С‚РµР»РµРј, СЃ Р°РїРїР°СЂР°С‚РЅРѕР№ С‡Р°СЃС‚СЊСЋ РєРѕРјРїСЊСЋС‚РµСЂР°. Р¤РёСЂРјР° 
+РЅРµ РЅРµСЃРµС‚ РѕС‚РІРµС‚СЃС‚РІРµРЅРЅРѕСЃС‚Рё Р·Р° РёРЅС„РѕСЂРјР°С†РёСЋ, С…СЂР°РЅСЏС‰СѓСЋСЃСЏ РЅР° РЅРѕСЃРёС‚РµР»СЏС… РёРЅС„РѕСЂРјР°С†РёРё 
+РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ.<o:p></o:p></SPAN></P>
 <P style="TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1" 
 class=ListParagraphCxSpMiddle><![if !supportLists]><SPAN 
 style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri"><SPAN 
 style="mso-list: Ignore">6.<SPAN 
 style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </SPAN></SPAN></SPAN><![endif]><SPAN 
-style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Гарантия не распространяется на 
-ущерб, причиненный другому оборудованию, работающему в сопряжении с данным 
-изделием.<o:p></o:p></SPAN></P>
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Р“Р°СЂР°РЅС‚РёСЏ РЅРµ СЂР°СЃРїСЂРѕСЃС‚СЂР°РЅСЏРµС‚СЃСЏ РЅР° 
+СѓС‰РµСЂР±, РїСЂРёС‡РёРЅРµРЅРЅС‹Р№ РґСЂСѓРіРѕРјСѓ РѕР±РѕСЂСѓРґРѕРІР°РЅРёСЋ, СЂР°Р±РѕС‚Р°СЋС‰РµРјСѓ РІ СЃРѕРїСЂСЏР¶РµРЅРёРё СЃ РґР°РЅРЅС‹Рј 
+РёР·РґРµР»РёРµРј.<o:p></o:p></SPAN></P>
 <P style="TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1" 
 class=ListParagraphCxSpMiddle><![if !supportLists]><SPAN 
 style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri"><SPAN 
 style="mso-list: Ignore">7.<SPAN 
 style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </SPAN></SPAN></SPAN><![endif]><SPAN 
-style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">При замене комплектующего изделия 
-гарантия продлевается на количество дней, в течение которых производился 
-гарантийный ремонт.<o:p></o:p></SPAN></P>
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">РџСЂРё Р·Р°РјРµРЅРµ РєРѕРјРїР»РµРєС‚СѓСЋС‰РµРіРѕ РёР·РґРµР»РёСЏ 
+РіР°СЂР°РЅС‚РёСЏ РїСЂРѕРґР»РµРІР°РµС‚СЃСЏ РЅР° РєРѕР»РёС‡РµСЃС‚РІРѕ РґРЅРµР№, РІ С‚РµС‡РµРЅРёРµ РєРѕС‚РѕСЂС‹С… РїСЂРѕРёР·РІРѕРґРёР»СЃСЏ 
+РіР°СЂР°РЅС‚РёР№РЅС‹Р№ СЂРµРјРѕРЅС‚.<o:p></o:p></SPAN></P>
 <P style="TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1" 
 class=ListParagraphCxSpMiddle><![if !supportLists]><SPAN 
 style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri"><SPAN 
 style="mso-list: Ignore">8.<SPAN 
 style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </SPAN></SPAN></SPAN><![endif]><SPAN 
-style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Гарантийный ремонт изделия 
-производится только на территории фирмы.<o:p></o:p></SPAN></P>
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Р“Р°СЂР°РЅС‚РёР№РЅС‹Р№ СЂРµРјРѕРЅС‚ РёР·РґРµР»РёСЏ 
+РїСЂРѕРёР·РІРѕРґРёС‚СЃСЏ С‚РѕР»СЊРєРѕ РЅР° С‚РµСЂСЂРёС‚РѕСЂРёРё С„РёСЂРјС‹.<o:p></o:p></SPAN></P>
 <P style="TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1" 
 class=ListParagraphCxSpMiddle><![if !supportLists]><SPAN 
 style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri"><SPAN 
 style="mso-list: Ignore">9.<SPAN 
 style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </SPAN></SPAN></SPAN><![endif]><SPAN 
-style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Гарантийный талон не действителен при 
-отсутствии подписей продавца и покупателя.<o:p></o:p></SPAN></P>
+style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Р“Р°СЂР°РЅС‚РёР№РЅС‹Р№ С‚Р°Р»РѕРЅ РЅРµ РґРµР№СЃС‚РІРёС‚РµР»РµРЅ РїСЂРё 
+РѕС‚СЃСѓС‚СЃС‚РІРёРё РїРѕРґРїРёСЃРµР№ РїСЂРѕРґР°РІС†Р° Рё РїРѕРєСѓРїР°С‚РµР»СЏ.<o:p></o:p></SPAN></P>
 <P class=ListParagraphCxSpLast><SPAN 
 style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt"><o:p>&nbsp;</o:p></SPAN></P>
 <P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt"><?php echo date("d.m.y"); ?><o:p></o:p></SPAN></P>
-<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Подпись 
-продавца: ____________________<o:p></o:p></SPAN></P>
-<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Претензий к 
-внешнему виду и исправности товара не имею.<SPAN 
+<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">РџРѕРґРїРёСЃСЊ 
+РїСЂРѕРґР°РІС†Р°: ____________________<o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">РџСЂРµС‚РµРЅР·РёР№ Рє 
+РІРЅРµС€РЅРµРјСѓ РІРёРґСѓ Рё РёСЃРїСЂР°РІРЅРѕСЃС‚Рё С‚РѕРІР°СЂР° РЅРµ РёРјРµСЋ.<SPAN 
 style="mso-tab-count: 2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </SPAN><SPAN 
 style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-</SPAN>М.П.<o:p></o:p></SPAN></P>
-<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">Подпись 
-покупателя: _____________________<o:p></o:p></SPAN></P>
+</SPAN>Рњ.Рџ.<o:p></o:p></SPAN></P>
+<P class=MsoNormal><SPAN style="LINE-HEIGHT: 115%; FONT-SIZE: 10pt">РџРѕРґРїРёСЃСЊ 
+РїРѕРєСѓРїР°С‚РµР»СЏ: _____________________<o:p></o:p></SPAN></P>
 <P class=MsoNormal><o:p>&nbsp;</o:p></P></p></DIV></BODY></HTML>

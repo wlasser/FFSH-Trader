@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 function configurate(){
 $conf = new CongifMgr();
 $conf->mysql_connection('vremonte');
